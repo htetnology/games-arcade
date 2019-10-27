@@ -1,6 +1,3 @@
-
-//Thinzar Htet 180295461
-
 import java.io.PrintStream;
 import java.util.Random;
 import java.util.Scanner;
