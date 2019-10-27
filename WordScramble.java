@@ -1,6 +1,3 @@
-
-//Thinzar Htet 180295461
-
 /* The game can begin with a general hint before suggesting the first letter of the word. 
  * The hint can be short definitions or category that the word falls under. 
  * For example, "formula" and "medicine" are categorized under "Science". 
