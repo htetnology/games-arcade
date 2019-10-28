@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class NumberGuessingGame {
 	private static Random random = new Random();
-	private static int numberToGuess = random.nextInt(5000);
+	private static int numberToGuess = random.nextInt(50);
 	private static int numberOfGuesses;
 
 	public static void askUserToGuessRandomNumber(PrintStream output) {
