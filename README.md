@@ -7,11 +7,13 @@ This is a simple game program consisting of 2 games: NumberGuessingGame and Word
 ![GamesArcade_menu](https://user-images.githubusercontent.com/55747927/67636116-35d95180-f908-11e9-8f56-eafdc73c0d19.png)
 
 
+
 2. Sample operation of option 1 (Number Guessing Game)
 
-![GamesArcade_NumberGuessingGame](https://user-images.githubusercontent.com/55747927/67644259-eb34f500-f95a-11e9-9960-e9f260012ed2.png)
+![GamesArcade_NumberGuessingGame](https://user-images.githubusercontent.com/55747927/67644867-05bd9d00-f960-11e9-9cbb-c940ac6a5efe.png)
 
 Note: program should reload menu after correct guess is made, as shown in option 2. Codes to be rectified in later stage. 
+
 
 
 3. Sample operation of option 2 (Word Scramble)
@@ -19,9 +21,11 @@ Note: program should reload menu after correct guess is made, as shown in option
 ![GamesArcade_WordScramble](https://user-images.githubusercontent.com/55747927/67644348-c68d4d00-f95b-11e9-992d-fad65cc911e8.png)
 
 
+
 4. Sample operation of option 3 (Quit)
 
-![GamesArcade_quit](https://user-images.githubusercontent.com/55747927/67644419-2edc2e80-f95c-11e9-83c4-bb83b22eac61.png)
+![GamesArcade_quit](https://user-images.githubusercontent.com/55747927/67644886-24bc2f00-f960-11e9-9852-9e383c0eefbb.png)
+
 
 
 ### Learn more
