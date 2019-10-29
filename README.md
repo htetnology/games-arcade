@@ -1,9 +1,9 @@
 # games-arcade
 This is a simple game program consisting of 2 games: NumberGuessingGame and WordScramble. 
 
-NumberGuessingGame uses an algorithm that chooses a random integer from a range of numbers, and asks the player to guess the number. Depending on the guess, hints are given 
+NumberGuessingGame uses an algorithm that chooses a random integer from a range of numbers, and asks the player to guess the number. Hints, such as "Too low" or "Too high", are given to the player until the correct answer is achieved. At the end of each round, the system reflects the number of tries taken to guess the correct answer to the player. The player is then redirected to the menu.
 
-WordScramble uses an algorithm that rearranges letters in words in a random orde, and asks the player to guess the scrambled word. 
+WordScramble uses an algorithm that chooses a random word from a group of words, rearranges its letters in a random order, and asks the player to guess the scrambled word. Upon incorrect guess, a hint on the first letter of the word is given. However, if the guess is still incorrect, the system will end the game and refelct the correct answer to the player. At the end of every round, the player is redirected to the menu.
 
 As per coursework requirements, only the NumberGuessingGame class was required to be developed from scratch. Additionally, minor improvements and commentaries were expected to improve the remaining classes. GamesArcade is the main class used to run the program. Developed using Java and Eclipse IDE.
 
