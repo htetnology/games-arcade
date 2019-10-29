@@ -1,5 +1,11 @@
 # games-arcade
-This is a simple game program consisting of 2 games: NumberGuessingGame and WordScramble. As per coursework requirements, only the NumberGuessingGame class was required to be developed from scratch. Additionally, minor improvements and commentaries were expected to improve the remaining classes. GamesArcade is the main class used to run the program. Developed using Java and Eclipse IDE.
+This is a simple game program consisting of 2 games: NumberGuessingGame and WordScramble. 
+
+NumberGuessingGame uses an algorithm that chooses a random integer from a range of numbers, and asks the player to guess the number. Depending on the guess, hints are given 
+
+WordScramble uses an algorithm that rearranges letters in words in a random orde, and asks the player to guess the scrambled word. 
+
+As per coursework requirements, only the NumberGuessingGame class was required to be developed from scratch. Additionally, minor improvements and commentaries were expected to improve the remaining classes. GamesArcade is the main class used to run the program. Developed using Java and Eclipse IDE.
 
 ## Screenshots of program
 1. Game menu
