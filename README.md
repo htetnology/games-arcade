@@ -28,13 +28,7 @@ Note: program should reload menu after correct guess is made, as shown in option
 
 
 
-4. Sample operation of option 3 (Quit)
-
-![GamesArcade_quit](https://user-images.githubusercontent.com/55747927/67644886-24bc2f00-f960-11e9-9852-9e383c0eefbb.png)
-
-
-
-### Learn more
+## Learn more
 To learn Java, check out the [Java documentation](https://docs.oracle.com/en/java/javase/13/)
 
 To know more about Eclipse IDE, check out the [Eclipse documentation](https://help.eclipse.org/2019-09/index.jsp)
